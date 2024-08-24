@@ -1,1 +1,1 @@
-## house Prices with Regression Algorithm and Sklearn
+## house Prices With Regression Algorithm and Sklearn
