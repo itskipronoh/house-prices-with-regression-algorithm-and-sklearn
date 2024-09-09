@@ -1,1 +1,1 @@
-## House Prices With Regression Algorithm And Scikit Learn
+## House Prices With Regression Algorithm and Scikit Learn
